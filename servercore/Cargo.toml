@@ -10,3 +10,6 @@ edition = "2018"
 serde = { version = "1.0", features = ["derive"] }
 validator = { version = "0.12", features = ["phone"] }
 uuid = { version = "0.8", features = ["serde"] }
+rusty-money = { version = "0.4", features = ["iso", "crypto"] }
+url = { version = "2.2" }
+rayon = { version = "1.5" }

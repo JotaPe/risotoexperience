@@ -2,5 +2,6 @@
 members = [
   "servercore",
   "users",
-  "catalog"
+  "catalog",
+  "gateway"
 ]
